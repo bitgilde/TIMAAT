@@ -12,3 +12,6 @@ TIMAAT fügt dem Konzept der visuellen Annotationen von Yenda eine zeitliche Kom
 Das Annotations-System ist über moderne Web-Browser ohne die Installation weiterer Software aufrufbar und bedienbar. Das Frontend ist im Design soweit möglich und sinnvoll Barrierearm und verwendet moderne UI-Frameworks sowie HTML5, CSS3 und JavaScript als Technologien.
 
 Des Weiteren werden rechtliche Vorgaben in Anbetracht des zu annotierenden Materials beachtet. Der Zugriff auf die Dateien ist über ein Rechte- und Rollensystem streng begrenzt, steuerbar. Zugriffe werden protokolliert und können über ein Berbeitungslog eingesehen werden. Die Videos müssen gleichfalls an einem sicheren Speicherort auf dem Server liegen.
+
+## Release
+Die Software befindet sich derzeit in der Entwicklung. Ein erstes Public Release (beta) ist für Anfang 2022 vorgesehen.
